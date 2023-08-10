@@ -37,8 +37,7 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Thin.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Thin.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Thin.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Thin.otf') format('opentype');
 }
 @font-face {
     font-family: 'Arita Buri';
@@ -46,8 +45,7 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Light.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Light.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Light.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Light.otf') format('opentype');
 }
 @font-face {
     font-family: 'Arita Buri';
@@ -55,8 +53,7 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Medium.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Medium.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Medium.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Medium.otf') format('opentype');
 }
 @font-face {
     font-family: 'Arita Buri';
@@ -64,8 +61,7 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-SemiBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-SemiBold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-SemiBold.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-SemiBold.otf') format('opentype');
 }
 @font-face {
     font-family: 'Arita Buri';
@@ -73,7 +69,6 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Bold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Bold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Bold.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/AritaBuri/AritaBuri-Bold.otf') format('opentype');
 }
 ```
